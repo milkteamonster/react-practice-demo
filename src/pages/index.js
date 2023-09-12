@@ -8,7 +8,7 @@ import Footer from "@/components/Footer";
 
 const Home = () => {
 	return (
-		<main className="min-h-screen mx-auto max-w-[1920px]">
+		<main className="min-h-screen mx-auto max-w-[1920px] relative pt-[96px]">
 			<Navigation />
 			<Breadcrumb />
 			<Advertisement />
